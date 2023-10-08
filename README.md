@@ -45,6 +45,13 @@ sls dynamodb install
 sls offline start
 ```
 
+4. To test with jest
+
+```
+npm test
+```
+
+
 ## Features
 
 - **DynamoDB**
