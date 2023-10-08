@@ -56,7 +56,7 @@ sls offline start
 
 List of available routes:
 
-**Vehicle routes**:\
+**People routes**:\
 `GET /people/` - Get all peoples in DynamoDB\
 `POST /people/` - Save person in DynamoDB\
 `GET /people/:id` - Get specify people\
