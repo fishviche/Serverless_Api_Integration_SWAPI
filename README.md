@@ -70,4 +70,4 @@ List of available routes:
 
 ### **API DEPLOYED IN AWS**
 
-https://1o32viuk41.execute-api.us-east-1.amazonaws.com/
+https://1o32viuk41.execute-api.us-east-1.amazonaws.com/api-docs
