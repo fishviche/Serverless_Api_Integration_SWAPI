@@ -1,0 +1,19 @@
+{
+  "definition": {
+    "openapi": "3.1.0",
+    "info": {
+      "title": "Star Wars API",
+      "version": "1.0.0 ",
+      "description": "API para acceder a datos de Star Wars"
+    },
+    "server": [
+      {
+        "url": "http://localhost:3000"
+      }
+    ]
+  },
+  "apis": [
+    "./routes/*.js",
+    "./src/routes/*.js"
+  ]
+}
